@@ -1,0 +1,3 @@
+id,brand,model,year,mileage,pos_file,erased
+123,aBB,aa,213,213,0,False
+432,dsfs,sdf,123,324,1,True
